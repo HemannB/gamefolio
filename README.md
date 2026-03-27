@@ -41,13 +41,13 @@ O site foi inspirado na estética do próprio jogo, trazendo:
 ---
 
 ## Estrutura do projeto
-
+```
 gamefolio/
-│── index.html
-│── style.css
-│── script.js
-└── img/
-
+├── img/          # Imagens e assets do jogo
+├── index.html    # Estrutura principal
+├── script.js     # Lógica e interatividade
+└── style.css     # Estilização e efeitos visuais
+```
 
 ---
 
