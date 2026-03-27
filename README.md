@@ -3,7 +3,8 @@
 Um site portfólio fictício desenvolvido para apresentar o jogo **Ghostwire: Tokyo**, com foco em prática de HTML, CSS e JavaScript.
 
 Acesse o projeto online:  
-https://gamefolio-web.vercel.app
+https://gamefolio-web.vercel.app ou em
+https://hemannb.github.io/gamefolio/
 
 ---
 
